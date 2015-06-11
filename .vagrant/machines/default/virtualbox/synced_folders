@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/oscar/Downloads/assignment-master","disabled":false},"/tmp/vagrant-puppet-3/manifests":{"type":"","guestpath":"/tmp/vagrant-puppet-3/manifests","hostpath":"/home/oscar/Downloads/assignment-master/manifests","disabled":false}}}
