@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is an example of using Vagrant to spin up and provision using a puppet manifest
 
 The vagrant base box path will need to be changed to a valid debian/ubuntu base box.
@@ -13,3 +14,7 @@ Some references:
 
 * http://docs.vagrantup.com/v2/provisioning/puppet_apply.html
 * http://www.puppetcookbook.com/posts/latest-package.html
+=======
+# IT-Security
+Security repositories
+>>>>>>> b37231292acfbb7b7edab7b52def3f2a024c8a2a
